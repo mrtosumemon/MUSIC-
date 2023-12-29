@@ -51,11 +51,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("InflexUpdates")
-                await self.one.join_chat("InflexSupport")
-                await self.one.join_chat("TeamInflex")
-                await self.one.join_chat("InflexStatus")
-                await self.one.join_chat("InflexBots")
+                await self.one.join_chat("The_Incricible")
+                await self.one.join_chat("Incricible")
+                await self.one.join_chat("II_VIP_SOCIETY_II")
+                await self.one.join_chat("ABOUT_GODFATHER")
+                await self.one.join_chat("MOON_SOCIETY")
             except:
                 pass
             assistants.append(1)
